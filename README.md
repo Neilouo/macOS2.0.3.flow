@@ -7,7 +7,8 @@ macOS Theme for FlowLauncher (2.0.3)
 
 > Replace the image URLs below with your own screenshots.
 
-<img width="869" height="545" alt=""Dark mode preview" src="https://github.com/user-attachments/assets/9ade74a7-31e3-43e0-adb0-7483c5b5868f" />
+
+<img width="869" height="545" alt="Dark mode preview" src="https://github.com/user-attachments/assets/0ae926b6-2ad3-4d3e-8e47-0cf3d6165950" />
 
 <img width="869" height="545" alt="Light mode preview" src="https://github.com/user-attachments/assets/26d1a6c0-8e27-4c78-811f-784fc80a9ae1" />
 
